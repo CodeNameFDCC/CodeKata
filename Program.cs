@@ -8,7 +8,7 @@ namespace Code
         static void Main(string[] args)
         {
 
-            new Kata_02().Print(5, 200);
+            new Kata_04().Print(23);
 
         }
     }
