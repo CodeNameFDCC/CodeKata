@@ -12,3 +12,4 @@ C:\Users\uvwxy\OneDrive\바탕 화면\Code\CodeKata\obj\Debug\net8.0\refint\Code
 C:\Users\uvwxy\OneDrive\바탕 화면\Code\CodeKata\obj\Debug\net8.0\CodeKata.pdb
 C:\Users\uvwxy\OneDrive\바탕 화면\Code\CodeKata\obj\Debug\net8.0\CodeKata.genruntimeconfig.cache
 C:\Users\uvwxy\OneDrive\바탕 화면\Code\CodeKata\obj\Debug\net8.0\ref\CodeKata.dll
+C:\Users\uvwxy\OneDrive\바탕 화면\Code\CodeKata\obj\Debug\net8.0\CodeKata.sourcelink.json

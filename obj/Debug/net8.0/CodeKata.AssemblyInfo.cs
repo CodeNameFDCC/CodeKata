@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeKata")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72eaf542f5f240c875bd9c462da40fd633cba723")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddebd3a2511683d3703fbc1b6736dce5ac2afd71")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeKata")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeKata")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

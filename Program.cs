@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CodeKata;
+using System;
 
 namespace Code 
 {
@@ -7,7 +8,7 @@ namespace Code
         static void Main(string[] args)
         {
 
-            new Kata_01().Print(5, 4);
+            new Kata_02().Print(5, 200);
 
         }
     }
