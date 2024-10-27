@@ -1,0 +1,14 @@
+C:\Users\uvwxy\OneDrive\바탕 화면\Code\CodeKata\bin\Debug\net8.0\CodeKata.exe
+C:\Users\uvwxy\OneDrive\바탕 화면\Code\CodeKata\bin\Debug\net8.0\CodeKata.deps.json
+C:\Users\uvwxy\OneDrive\바탕 화면\Code\CodeKata\bin\Debug\net8.0\CodeKata.runtimeconfig.json
+C:\Users\uvwxy\OneDrive\바탕 화면\Code\CodeKata\bin\Debug\net8.0\CodeKata.dll
+C:\Users\uvwxy\OneDrive\바탕 화면\Code\CodeKata\bin\Debug\net8.0\CodeKata.pdb
+C:\Users\uvwxy\OneDrive\바탕 화면\Code\CodeKata\obj\Debug\net8.0\CodeKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uvwxy\OneDrive\바탕 화면\Code\CodeKata\obj\Debug\net8.0\CodeKata.AssemblyInfoInputs.cache
+C:\Users\uvwxy\OneDrive\바탕 화면\Code\CodeKata\obj\Debug\net8.0\CodeKata.AssemblyInfo.cs
+C:\Users\uvwxy\OneDrive\바탕 화면\Code\CodeKata\obj\Debug\net8.0\CodeKata.csproj.CoreCompileInputs.cache
+C:\Users\uvwxy\OneDrive\바탕 화면\Code\CodeKata\obj\Debug\net8.0\CodeKata.dll
+C:\Users\uvwxy\OneDrive\바탕 화면\Code\CodeKata\obj\Debug\net8.0\refint\CodeKata.dll
+C:\Users\uvwxy\OneDrive\바탕 화면\Code\CodeKata\obj\Debug\net8.0\CodeKata.pdb
+C:\Users\uvwxy\OneDrive\바탕 화면\Code\CodeKata\obj\Debug\net8.0\CodeKata.genruntimeconfig.cache
+C:\Users\uvwxy\OneDrive\바탕 화면\Code\CodeKata\obj\Debug\net8.0\ref\CodeKata.dll
