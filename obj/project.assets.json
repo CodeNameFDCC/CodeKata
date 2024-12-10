@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\uvwxy\\OneDrive\\바탕 화면\\Code\\CodeKata\\CodeKata.csproj",
+      "projectUniqueName": "E:\\Desk\\Code\\CodeKata\\CodeKata.csproj",
       "projectName": "CodeKata",
-      "projectPath": "C:\\Users\\uvwxy\\OneDrive\\바탕 화면\\Code\\CodeKata\\CodeKata.csproj",
+      "projectPath": "E:\\Desk\\Code\\CodeKata\\CodeKata.csproj",
       "packagesPath": "C:\\Users\\uvwxy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\uvwxy\\OneDrive\\바탕 화면\\Code\\CodeKata\\obj\\",
+      "outputPath": "E:\\Desk\\Code\\CodeKata\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\uvwxy\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\uvwxy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Code\\CodeKata\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{44DB77E2-2749-4581-8DA4-0714477BDFAF}|CodeKata.csproj|c:\\users\\uvwxy\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\code\\codekata\\kata_04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DB77E2-2749-4581-8DA4-0714477BDFAF}|CodeKata.csproj|solutionrelative:kata_04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{44DB77E2-2749-4581-8DA4-0714477BDFAF}|CodeKata.csproj|c:\\users\\uvwxy\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\code\\codekata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44DB77E2-2749-4581-8DA4-0714477BDFAF}|CodeKata.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{44DB77E2-2749-4581-8DA4-0714477BDFAF}|CodeKata.csproj|c:\\users\\uvwxy\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\code\\codekata\\kata_03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44DB77E2-2749-4581-8DA4-0714477BDFAF}|CodeKata.csproj|solutionrelative:kata_03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44DB77E2-2749-4581-8DA4-0714477BDFAF}|CodeKata.csproj|c:\\users\\uvwxy\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\code\\codekata\\kata_04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44DB77E2-2749-4581-8DA4-0714477BDFAF}|CodeKata.csproj|solutionrelative:kata_04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Kata_04.cs",
               "DocumentMoniker": "C:\\Users\\uvwxy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Code\\CodeKata\\Kata_04.cs",
               "RelativeDocumentMoniker": "Kata_04.cs",
               "ToolTip": "C:\\Users\\uvwxy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Code\\CodeKata\\Kata_04.cs",
               "RelativeToolTip": "Kata_04.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T10:05:07.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Kata_03.cs",
               "DocumentMoniker": "C:\\Users\\uvwxy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Code\\CodeKata\\Kata_03.cs",
               "RelativeDocumentMoniker": "Kata_03.cs",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Kata_02.cs",
               "DocumentMoniker": "C:\\Users\\uvwxy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Code\\CodeKata\\Kata_02.cs",
               "RelativeDocumentMoniker": "Kata_02.cs",
@@ -69,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\uvwxy\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Code\\CodeKata\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
